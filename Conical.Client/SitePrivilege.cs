@@ -43,5 +43,6 @@ namespace BorsukSoftware.Conical.Client
 		ErrorsClose,
 		SuperUser,
 		FrontPageConfigurator,
+		ServerMetrics
 	}
 }

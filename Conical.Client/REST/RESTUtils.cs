@@ -306,6 +306,9 @@ namespace BorsukSoftware.Conical.Client.REST
                 case Client.SitePrivilege.RolesView:
                     return SitePrivilege.rolesView;
 
+                case Client.SitePrivilege.ServerMetrics:
+                    return SitePrivilege.serverMetrics;
+
                 case Client.SitePrivilege.SuperUser:
                     return SitePrivilege.superUser;
 
@@ -414,6 +417,9 @@ namespace BorsukSoftware.Conical.Client.REST
 
                 case SitePrivilege.rolesView:
                     return Client.SitePrivilege.RolesView;
+
+                case SitePrivilege.serverMetrics:
+                    return Client.SitePrivilege.ServerMetrics;
 
                 case SitePrivilege.superUser:
                     return Client.SitePrivilege.SuperUser;
