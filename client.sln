@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conical.Client", "Conical.Client\Conical.Client.csproj", "{D8BEBBCA-77B9-4617-82CD-CA5270D29A03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conical.Client.Tests", "Conical.Client.Tests\Conical.Client.Tests.csproj", "{3F1D7518-1B8C-4010-A0C8-973360E3C777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8BEBBCA-77B9-4617-82CD-CA5270D29A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BEBBCA-77B9-4617-82CD-CA5270D29A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BEBBCA-77B9-4617-82CD-CA5270D29A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BEBBCA-77B9-4617-82CD-CA5270D29A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1D7518-1B8C-4010-A0C8-973360E3C777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1D7518-1B8C-4010-A0C8-973360E3C777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1D7518-1B8C-4010-A0C8-973360E3C777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1D7518-1B8C-4010-A0C8-973360E3C777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4231CA71-2065-48EF-806B-D91D1ACC0AE6}
+	EndGlobalSection
+EndGlobal

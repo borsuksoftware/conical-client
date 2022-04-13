@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Conical.Client/bin
+/Conical.Client/obj
+/Conical.Client.Tests/bin
+/Conical.Client.Tests/obj
